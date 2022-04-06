@@ -4,5 +4,6 @@
 // Declare prototype of function
 
 int DemoConsoleOutput();
+int DemoConsoleOutputIO();
 
 #endif

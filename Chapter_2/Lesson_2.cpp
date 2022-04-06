@@ -15,8 +15,33 @@ int DemoConsoleOutput()
     return 0;
 }
 
+int DemoConsoleOutputIO()
+{
+    // Declare a variable of type int to store the number
+    int inputNumber;
+
+    std::cout << "Enter an interger : " << std::endl;
+
+    // store interger giving user input
+
+    std::cin >> inputNumber;
+
+    // The same with text i.e. string data
+
+    std::string inputName;
+
+    std::cout << "Enter your name : " << std::endl;
+
+    std::cin >> inputName;
+
+    std::cout << inputName << " entered " << inputNumber << " as an interger" << std::endl;
+
+    return 0;
+}
+
 int main()
 {
     // Function called with the return to exit.
-    return DemoConsoleOutput();
+    DemoConsoleOutput();
+    return DemoConsoleOutputIO();
 }
