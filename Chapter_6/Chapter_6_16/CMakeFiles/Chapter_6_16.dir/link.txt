@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Chapter_6_16.dir/Chapter_6_16.cpp.o -o Chapter_6_16 
