@@ -86,33 +86,33 @@ touch Chapter_7_12.cpp
 touch Chapter_7_12.h
 cd ../
 
-mkdir Chapter_7_13
-cd Chapter_7_13
-touch CMakeLists.txt
-touch Chapter_7_13.cpp
-touch Chapter_7_13.h
-cd ../
+# mkdir Chapter_7_13
+# cd Chapter_7_13
+# touch CMakeLists.txt
+# touch Chapter_7_13.cpp
+# touch Chapter_7_13.h
+# cd ../
 
-mkdir Chapter_7_14
-cd Chapter_7_14
-touch CMakeLists.txt
-touch Chapter_7_14.cpp
-touch Chapter_7_14.h
-cd ../
+# mkdir Chapter_7_14
+# cd Chapter_7_14
+# touch CMakeLists.txt
+# touch Chapter_7_14.cpp
+# touch Chapter_7_14.h
+# cd ../
 
-mkdir Chapter_7_15
-cd Chapter_7_15
-touch CMakeLists.txt
-touch Chapter_7_15.cpp
-touch Chapter_7_15.h
-cd ../
+# mkdir Chapter_7_15
+# cd Chapter_7_15
+# touch CMakeLists.txt
+# touch Chapter_7_15.cpp
+# touch Chapter_7_15.h
+# cd ../
 
-mkdir Chapter_7_16
-cd Chapter_7_16
-touch CMakeLists.txt
-touch Chapter_7_16.cpp
-touch Chapter_7_16.h
-cd ../
+# mkdir Chapter_7_16
+# cd Chapter_7_16
+# touch CMakeLists.txt
+# touch Chapter_7_16.cpp
+# touch Chapter_7_16.h
+# cd ../
 
 
 
