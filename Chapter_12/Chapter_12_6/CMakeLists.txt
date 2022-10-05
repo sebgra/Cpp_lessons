@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.6)
-project(Chapter_12_16
+project(Chapter_12_6)
 
 set(SOURCE_FILES
 		${PROJECT_SOURCE_DIR}/Chapter_12_6.cpp
