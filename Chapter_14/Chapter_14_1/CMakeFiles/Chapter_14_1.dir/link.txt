@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Chapter_14_1.dir/Chapter_14_1.cpp.o -o Chapter_14_1 
