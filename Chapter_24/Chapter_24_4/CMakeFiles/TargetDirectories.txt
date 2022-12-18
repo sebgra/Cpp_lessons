@@ -1,0 +1,3 @@
+/home/sebastien/Bureau/Cpp_lessons/Chapter_24/Chapter_24_4/CMakeFiles/Chapter_24_.dir
+/home/sebastien/Bureau/Cpp_lessons/Chapter_24/Chapter_24_4/CMakeFiles/edit_cache.dir
+/home/sebastien/Bureau/Cpp_lessons/Chapter_24/Chapter_24_4/CMakeFiles/rebuild_cache.dir
