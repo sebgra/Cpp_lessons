@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Chapter_28_4.dir/Chapter_28_4.cpp.o -o Chapter_28_4 
